@@ -1,4 +1,4 @@
 # Random Quote Machine
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/mmuneeeb/pen/ZEqyvZx](https://codepen.io/mmuneeeb/pen/ZEqyvZx).
+This is my solution for the personal library project for Data Visualization module on freecodecamp.org. View on codepen: [https://codepen.io/mmuneeeb/pen/ZEqyvZx](https://codepen.io/mmuneeeb/pen/ZEqyvZx).
 
